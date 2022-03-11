@@ -29,4 +29,6 @@ Remote keyless entry (RKE) system is a system designed to remotely lock or unloc
 
 # SWOT Analysis
 
+![Screenshot (290)](https://user-images.githubusercontent.com/42509490/157840229-19f99e39-03a1-4947-9316-0cb7d4dfc2ae.png)
+
 # 5W's and 1H
